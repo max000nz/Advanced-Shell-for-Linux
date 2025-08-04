@@ -26,4 +26,4 @@ This project contains added features for standard Linux shell:
 - MyExit
 > Exit from advanced shell to regular one.
 
-  Everything compiling from shell file and runs by ``./Advanced_shell.sh ```
+  Everything compiling from shell file and runs by ``./Advanced_shell.sh ``
