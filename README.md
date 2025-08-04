@@ -1,6 +1,6 @@
-###Project name: Advanced Linux
+Project name: Advanced Linux
 
-#This project contains added features for standard Linux shell:
+This project contains added features for standard Linux shell:
 
 - Advanced Shell
 > Runs improved shell, every regular shell command work as well.
@@ -26,4 +26,4 @@
 - MyExit
 > Exit from advanced shell to regular one.
 
-  Everything compiling from shell file and runs by ./Advanced_shell.sh 
+  Everything compiling from shell file and runs by ``./Advanced_shell.sh ```
